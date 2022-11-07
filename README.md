@@ -1,2 +1,2 @@
 # analogBooking
-Аналог сайта Booking.com
+Booking.com clone
